@@ -1,2 +1,2 @@
 # promptology
-A repo for meta prompts and more
+a repo for meta prompts and more
